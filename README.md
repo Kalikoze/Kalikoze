@@ -51,6 +51,7 @@ As a software developer and instructor, I push myself, my colleagues, and studen
 ## 📫 Contact Me
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GMail][gmail-shield]][gmail-url]
+[![CodeWars][codewars-shield]][codewars-url]
 
 ---
 
@@ -94,16 +95,10 @@ As a software developer and instructor, I push myself, my colleagues, and studen
 
 
 
-
-
-
-
-
-
-
-
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:kalikoze@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/travisrollins/
+[codewars-shield]: https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
+[codewars-url]: https://www.codewars.com/users/Kalikoze
 
