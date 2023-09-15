@@ -42,6 +42,12 @@ As a software developer and instructor, I push myself, my colleagues, and studen
 - PMP (*Project Management Professional Certification*)
 - [AWS Certification](https://aws.amazon.com/certification/)
 
+## 🤔 Interests
+- Animals! I've got 2 dogs and one cat. And I love visiting both Sea World and the San Diego Zoo! 🐬
+- I love the ocean. 🌊 Whether it's the beach or out on a boat, you can always find me by the water!
+- I love music.  Prior to working in the tech industry, I was a professional viola player and also produced hip hop music. 🎻
+
+
 ## 📫 Contact Me
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GMail][gmail-shield]][gmail-url]
@@ -55,22 +61,6 @@ As a software developer and instructor, I push myself, my colleagues, and studen
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kalikoze&theme=dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=kalikoze&color=orange&style=for-the-badge)
-
-<!--
-**Kalikoze/Kalikoze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [react-hooks]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
