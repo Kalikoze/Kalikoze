@@ -39,6 +39,7 @@ As a software developer and instructor, I push myself, my colleagues, and studen
 
 ## 🌱 Currently Learning
 - [TypeScript](https://www.typescriptlang.org/)
+- [GrahQL](https://www.apollographql.com/tutorials/certifications/apollo-graph-associate/)
 - PMP (*Project Management Professional Certification*)
 - [AWS Certification](https://aws.amazon.com/certification/)
 
