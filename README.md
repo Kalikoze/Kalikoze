@@ -35,7 +35,7 @@
 ---
 
 ## 🔭 About Me
-As a software developer and instructor, I push myself, my colleagues, and students to be the best they can personally and professionally. Formerly a violist and audio engineer, my attention to detail in the tech industry leads to better documentation, team workflows, and user experiences.  My strengths extend to my organizational skills and adaptability in leading teams on new and unique projects while also enhancing our existing processes.  When not at work, you will find me often spending my time either at the zoo or out at sea whale watching!
+As a senior software developer and instructor, I push myself, my colleagues, and students to be the best they can personally and professionally. Formerly a violist and audio engineer, my attention to detail in the tech industry leads to better documentation, team workflows, and user experiences.  My strengths extend to my organizational skills and adaptability in leading teams on new and unique projects while also enhancing our existing processes.  When not at work, you will find me often spending my time either at the zoo or out at sea whale watching!
 
 ## 🌱 Currently Learning
 - [TypeScript](https://www.typescriptlang.org/)
