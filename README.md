@@ -38,10 +38,10 @@
 As a senior software developer and instructor, I push myself, my colleagues, and students to be the best they can personally and professionally. Formerly a violist and audio engineer, my attention to detail in the tech industry leads to better documentation, team workflows, and user experiences.  My strengths extend to my organizational skills and adaptability in leading teams on new and unique projects while also enhancing our existing processes.  When not at work, you will find me often spending my time either at the zoo or out at sea whale watching!
 
 ## 🌱 Currently Learning
-- [TypeScript](https://www.typescriptlang.org/)
+- [Latest features of NextJS]([https://aws.amazon.com/certification/](https://nextjs.org/))
+- [TailWind CSS](https://tailwindcss.com/)
+- [Python](https://www.python.org/)
 - [GrahQL](https://www.apollographql.com/tutorials/certifications/apollo-graph-associate/)
-- PMP (*Project Management Professional Certification*)
-- [AWS Certification](https://aws.amazon.com/certification/)
 
 ## 🤔 Interests
 - Animals! I've got 2 dogs and one cat. And I love visiting both Sea World and the San Diego Zoo! 🐬
