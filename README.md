@@ -4,7 +4,7 @@
 
 ## Tech Stack
 
-## Languages
+### Languages
 ![typescript]
 ![python]
 ![graphql]
