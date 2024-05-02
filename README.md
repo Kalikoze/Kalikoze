@@ -2,14 +2,14 @@
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
-### Languages
+#### Languages
 ![typescript]
 ![python]
 ![graphql]
 
-### Frameworks / Libraries
+#### Frameworks / Libraries
 ![nextjs]
 ![react-hooks]
 ![react-router]
@@ -19,12 +19,12 @@
 ![express]
 ![postgres]
 
-### Testing
+#### Testing
 ![cypress]
 ![mocha]
 ![chai]
 
-### Other
+#### Other
 ![git]
 ![npm]
 ![eslint]
