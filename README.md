@@ -60,8 +60,6 @@ With over 7 years in software development, including 6 years as an instructor, I
 
 ![Travis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalikoze&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kalikoze&theme=dark)](https://git.io/streak-stats)
-
 ![](https://komarev.com/ghpvc/?username=kalikoze&color=orange&style=for-the-badge)
 
 <!-- MARKDOWN LINKS & IMAGES -->
